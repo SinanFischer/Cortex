@@ -2,7 +2,7 @@
 
 This repository is the community and documentation hub for Cortex, the working memory for developers built into VS Code.
 
-🌐 **Website:** [levelupvscode.com/cortex](https://www.levelupvscode.com/cortex) — features, pricing and guides
+🌐 **Website:** [levelupvscode.com/cortex](https://www.levelupvscode.com/cortex)
 
 - [Install from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Sinandev.cortex-workspace) (VS Code)
 - [Install from Open VSX](https://open-vsx.org/extension/Sinandev/cortex-workspace) (Cursor, Windsurf, VSCodium and other forks)
